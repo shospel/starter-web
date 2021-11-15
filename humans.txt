@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+Sophie
     <name> -- <role> -- <twitter>
 
 # THANKS
